@@ -1,6 +1,7 @@
 import demucs.separate
 import glob,os,shutil
 
+# Please change your own program location folder path
 PROGRAM_ROOT = "C:\work\python\demucs"
 
 MUSIC_PATH = PROGRAM_ROOT + "\music"
