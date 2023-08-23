@@ -32,4 +32,7 @@ pip install -r requirements.txt
 Change "PROGRAM_ROOT" of "run_demucs.py" to your own program location folder before execution
 
 # Author
-[twitter](https://twitter.com/RNxtxsx)
+[x(twitter)](https://twitter.com/RNxtxsx)
+
+## Acknowledgements
+This project reference of [Demucs](https://github.com/facebookresearch/demucs) under MIT license. 
